@@ -34,5 +34,3 @@ Deepseek-Clone/
 - After starting the app, navigate to `http://localhost:3000` in your web browser.
 - Use the search bar to enter keywords for searching data.
 - Explore the settings panel to customize your preferences.
-
-For additional support, please refer to the [Wiki](https://github.com/AMANKUMAR00200/Deepseek-Clone/wiki) or contact the project maintainers.
